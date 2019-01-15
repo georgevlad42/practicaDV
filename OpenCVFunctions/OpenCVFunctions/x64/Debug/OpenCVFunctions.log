@@ -1,0 +1,13 @@
+﻿  OpenCVFunctions.cpp
+c:\users\vlad\source\repos\opencvfunctions\opencvfunctions\opencvfunctions.cpp(73): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\vlad\source\repos\opencvfunctions\opencvfunctions\opencvfunctions.cpp(122): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\vlad\source\repos\opencvfunctions\opencvfunctions\opencvfunctions.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenCVFunctions.vcxproj -> C:\Users\Vlad\source\repos\OpenCVFunctions\x64\Debug\OpenCVFunctions.exe
